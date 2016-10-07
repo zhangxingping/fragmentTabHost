@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentTabHostTest</string>
+    <string name="first">首页</string>
+    <string name="second">视频</string>
+    <string name="third">关心</string>
+    <string name="fourth">我的</string>
+
+    <string name="first_page">第一个页面</string>
+    <string name="second_page">第二个页面</string>
+    <string name="third_page">第三个页面</string>
+    <string name="fourth_page">第四个页面</string>
+</resources>

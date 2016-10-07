@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_viewpage_arrays">
+        <item>电影</item>
+        <item>车展</item>
+        <item>选秀</item>
+        <item>综艺节目</item>
+    </string-array>
+
+    <string-array name="second_viewpage_arrays">
+        <item>化妆品</item>
+        <item>护肤品</item>
+        <item>相亲</item>
+        <item>美食</item>
+    </string-array>
+</resources>
